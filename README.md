@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anthony Yiu</h1>
 <h3 align="center">A frontend developer from Birmingham, UK</h3>
 
-- 🔭 I’m currently working on **Authentic Asian Recipes**
-
 - 🌱 I’m currently learning **Next.js and MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://anthonyyiu.dev](https://anthonyyiu.dev)
